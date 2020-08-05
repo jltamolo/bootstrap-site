@@ -1170,6 +1170,7 @@ section {
 
 .row {
   margin: 8px -16px;
+  display: flex;
 }
 
 /* Add padding BETWEEN each column (if you want) */
@@ -1209,4 +1210,7 @@ section {
   .column {
     width: 100%;
   }
+}
+h4{
+  font-family: roboto;
 }
